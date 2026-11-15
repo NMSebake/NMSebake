@@ -209,17 +209,21 @@ I believe in continuous learning, practical problem-solving and building solutio
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NMSebake&bg_color=00000000&color=005EB8&line=00A3E0&point=0033A0&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
+  <a href="https://github.com/NMSebake">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=NMSebake&bg_color=0d1117&color=c9d1d9&line=00A3E0&point=005EB8&area=true&area_color=0033A0&hide_border=true"
+      width="100%"
+      alt="Nkgopoleng's GitHub contribution activity graph"
+    />
+  </a>
 
 </div>
+
 
 ---
 
